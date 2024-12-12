@@ -44,7 +44,7 @@ Follow these steps to run the project locally:
 Contributions are welcome! Feel free to submit issues or pull requests to improve the project.
 
 ## License
-This project is licensed under the [MIT License](https://github.com/cybertiwari/Cloth-Simulation/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/cybertiwari/Cloth-Simulation/blob/master/LICENSE).
 
 ## Repository Link
 [Cloth Simulation GitHub Repository](https://github.com/cybertiwari/Cloth-Simulation)
